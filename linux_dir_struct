@@ -1,1 +1,2 @@
 /bin/ -> Essential User Command Binaries
+/boot/ -> Static Files of the Boot Loader
